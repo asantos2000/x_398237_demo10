@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="demo10">9b1d2438db400010f461cd3f29961947</application>
+        <filter/>
+        <name>demo10 Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_398237_demo10.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-19 22:11:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f1d2438db400010f461cd3f29961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demo10 Table</sys_name>
+        <sys_package display_value="demo10" source="x_398237_demo10">761d6c74db400010f461cd3f2996191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo10">761d6c74db400010f461cd3f2996191c</sys_scope>
+        <sys_update_name>sys_ui_module_1f1d2438db400010f461cd3f29961949</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-19 22:11:01</sys_updated_on>
+        <table>x_398237_demo10_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
